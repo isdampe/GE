@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"callB",
+				"callBackCancel"
+			],
+			[
+				"move",
+				"moveSpeed"
+			],
+			[
+				"game",
+				"gameEngine"
+			],
+			[
+				"input",
+				"inputManager"
+			],
+			[
+				"in",
+				"inputManager"
+			],
+			[
 				"ob",
 				"objectId"
 			],
@@ -51,7 +71,7 @@
 			"file": "src/engine.js",
 			"settings":
 			{
-				"buffer_size": 2472,
+				"buffer_size": 3768,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +87,7 @@
 			"file": "src/input.js",
 			"settings":
 			{
-				"buffer_size": 24,
+				"buffer_size": 635,
 				"line_ending": "Unix"
 			}
 		},
@@ -75,7 +95,7 @@
 			"file": "src/game.js",
 			"settings":
 			{
-				"buffer_size": 1135,
+				"buffer_size": 1083,
 				"line_ending": "Unix"
 			}
 		},
@@ -302,8 +322,8 @@
 						"selection":
 						[
 							[
-								218,
-								218
+								346,
+								346
 							]
 						],
 						"settings":
@@ -321,15 +341,15 @@
 					"file": "src/engine.js",
 					"settings":
 					{
-						"buffer_size": 2472,
+						"buffer_size": 3768,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1728,
-								1728
+								1075,
+								1075
 							]
 						],
 						"settings":
@@ -338,7 +358,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 536.0,
+						"translation.y": 634.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -374,15 +394,15 @@
 					"file": "src/input.js",
 					"settings":
 					{
-						"buffer_size": 24,
+						"buffer_size": 635,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								17,
-								17
+								245,
+								245
 							]
 						],
 						"settings":
@@ -400,23 +420,24 @@
 					"file": "src/game.js",
 					"settings":
 					{
-						"buffer_size": 1135,
+						"buffer_size": 1083,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								449,
-								449
+								1049,
+								1049
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 513.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
